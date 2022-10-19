@@ -46,11 +46,12 @@ coverage.xml
 
 # Developers
 *.sw*
-manage.py
+
 .DS_Store
 
 # example database
 drf_example
 
 .env
-.lock
+Pipfile.lock
+*.lock
